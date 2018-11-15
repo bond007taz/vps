@@ -1,0 +1,4 @@
+cd src 
+make -f makefile.unix 
+cp bitrewardsd ${MNODE_DAEMON}
+
